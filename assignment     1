@@ -1,0 +1,18 @@
+datatype: datatype is an attribute of data which tells the compiler or interpeter.
+There are different data types
+1. boolen data type.
+2. string data type.
+3. character data type.
+4. numeric data type.
+
+
+
+difference b/w string & variable:
+
+variable: variable is a name which is located in primary memory & its reads in main memory.
+variable= var1(), var2(),var3();
+
+string: string is the values inside ther quotes assigned to a string.
+
+example: string s();
+
